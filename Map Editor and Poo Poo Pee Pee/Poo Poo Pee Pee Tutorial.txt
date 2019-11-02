@@ -1,0 +1,24 @@
+Multi Syringe Tutorial:
+Select Multi Syringe but do not place yet
+Press Number 1 to 4:
+1: Radioactive Syringe
+2: Adrenaline Syringe
+3: Anti Anaesthetic Syringe
+4: Drug Syringe
+Place Syringe
+Inject
+Success!!!
+End Of Multi Syringe Tutorial
+
+
+Map Editor Tutorial:
+
+Place Decimator
+Activate
+Destroy all 4 Corners of map
+Press 5 to Place map
+Press 8 to Increase Size of Future Spawned Maps
+Press 9 To Decrease Size of Future Spawned Maps
+
+Unfortunately at this time there is no way to undo
+you will either have to restart, or use the decimator to destroy the changes
