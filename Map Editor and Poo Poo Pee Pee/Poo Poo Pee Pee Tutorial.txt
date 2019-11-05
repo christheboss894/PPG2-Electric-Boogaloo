@@ -1,10 +1,11 @@
 Multi Syringe Tutorial:
 Select Multi Syringe but do not place yet
-Press Number 1 to 4:
+Press Number 1 to 5:
 1: Radioactive Syringe
 2: Adrenaline Syringe
 3: Anti Anaesthetic Syringe
 4: Drug Syringe
+5: Morphine Syringe
 Place Syringe
 Inject
 Success!!!
@@ -16,16 +17,9 @@ Map Editor Tutorial:
 Place Decimator
 Activate
 Destroy all 4 Corners of map
-Press 5 to Place map
-Press 8 to Increase Size of Future Spawned Maps
-Press 9 To Decrease Size of Future Spawned Maps
+Press 8 to Place map
+Press 9 to Increase Size of Future Spawned Maps
+Press 0 To Decrease Size of Future Spawned Maps
 
 Unfortunately at this time there is no way to undo
 you will either have to restart, or use the decimator to destroy the changes
-
-Favourite Object Tutorial:
-
-Choose an Object, this Object is now your favourite
-To Place the Favourite Object Facing Right, Press H
-To Place the Favourite Object Facing Left, Press LShift + H
-To Reset your Favourite Object, Press LControl + LShift + X
