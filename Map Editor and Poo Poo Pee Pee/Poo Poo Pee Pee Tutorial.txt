@@ -6,6 +6,8 @@ Press Number 1 to 5:
 3: Anti Anaesthetic Syringe
 4: Drug Syringe
 5: Morphine Syringe
+6: Immortality Syringe
+7: Death Syringe
 Place Syringe
 Inject
 Success!!!
@@ -23,3 +25,11 @@ Press 0 To Decrease Size of Future Spawned Maps
 
 Unfortunately at this time there is no way to undo
 you will either have to restart, or use the decimator to destroy the changes
+
+
+Disable Guts Tutorial:
+Run the game atleast once with the mod.
+Close the game.
+Navigate to your People Playground Folder, you will see a file called doGuts, open it.
+Change doGuts : true to doGuts : false
+Do the opposite to re enable guts.
