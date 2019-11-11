@@ -1,4 +1,4 @@
-PooPooPeePee Mod.
+PPG2: Electric Boogaloo
 Made by Linus 
 Game Version - 1.2.5
 
