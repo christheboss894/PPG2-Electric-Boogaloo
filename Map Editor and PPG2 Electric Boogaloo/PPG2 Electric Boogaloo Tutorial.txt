@@ -1,6 +1,6 @@
 Multi Syringe Tutorial:
 Select Multi Syringe but do not place yet
-Press Number 1 to 5:
+Press Number 1 to 7:
 1: Radioactive Syringe
 2: Adrenaline Syringe
 3: Anti Anaesthetic Syringe
@@ -26,10 +26,15 @@ Press 0 To Decrease Size of Future Spawned Maps
 Unfortunately at this time there is no way to undo
 you will either have to restart, or use the decimator to destroy the changes
 
-
 Disable Guts Tutorial:
 Run the game atleast once with the mod.
 Close the game.
-Navigate to your People Playground Folder, you will see a file called doGuts, open it.
+Navigate to your People Playground Folder, you will see a file called settings, open it.
 Change doGuts : true to doGuts : false
 Do the opposite to re enable guts.
+
+Favourite item tutorial
+First item you select is considered your favourite
+Press H to spawn facing Right
+Press Shift H to spawn facing Left
+Press Ctrl Shift X to reset favourite item
