@@ -38,3 +38,5 @@ First item you select is considered your favourite
 Press H to spawn facing Right
 Press Shift H to spawn facing Left
 Press Ctrl Shift X to reset favourite item
+
+Note: Map Editor is updated sort of, u can still use the above method but its better to use it by spawning in what was called the water detector, this method still lets u modify size of the map using the old keys, but this method also lets u undo
