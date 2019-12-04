@@ -1,6 +1,8 @@
 PPG2: Electric Boogaloo
 Made by Linus 
-Game Version - 1.2.5
+Game Version - 1.2.6
+
+Discord: https://discord.gg/w7wayh
 
 -------How To Import Into Your Game-------
 1. Download one of the .dlls
