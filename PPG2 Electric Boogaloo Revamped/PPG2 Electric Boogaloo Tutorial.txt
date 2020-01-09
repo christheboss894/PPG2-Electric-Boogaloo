@@ -1,0 +1,15 @@
+Speed:
+Shift G to Increase Speed
+Shift H to Decrease Speed
+
+Gun Controlling:
+Press Freeze on the Gun, Press the Control Gun Button.
+Left Click to Shoot.
+To Rotate the gun simple pause time and rotate.
+
+Disable Guts:
+Run the game atleast once with the mod.
+Close the game.
+Navigate to your People Playground Folder, you will see a file called settings, open it.
+Change doGuts : true to doGuts : false
+Do the opposite to re enable guts.
