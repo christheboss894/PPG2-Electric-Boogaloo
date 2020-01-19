@@ -1,4 +1,4 @@
-PPG2: Electric Boogaloo Reimagined
+PPG2: Electric Boogaloo Revamped
 Made by Linus 
 Game Version - 1.2.7
 
